@@ -1,9 +1,11 @@
-import Feed from './Pages/Feed/Feed';
+// import Feed from './Pages/Feed/Feed';
+import Perfil from './Pages/perfil/Perfil';
 
 function App() {
   return ( 
     <>
-      <Feed/>
+      {/* <Feed/> */}
+      <Perfil></Perfil>
     </>
    );
 }

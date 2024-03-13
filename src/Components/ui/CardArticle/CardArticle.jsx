@@ -1,6 +1,5 @@
 import './cardArticle.css';
 
-// eslint-disable-next-line react/prop-types
 function CardArticulo({ title1, text }) {
     return (
         <section className="container-card-articulo">
