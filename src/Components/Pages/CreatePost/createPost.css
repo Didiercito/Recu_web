@@ -1,0 +1,82 @@
+.container-post{
+    width: 48%;
+    height: 20vh;
+    margin: 1%;
+    border-radius: 5px;
+    background-color: #D9D9D9;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-crear{
+    width: 92%;
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container-botones{
+    width: 92%;
+    height: 45%;
+    display: flex;
+    justify-content: end;
+    align-items: center;
+}
+
+.img-create-post{
+    width: 13%;
+}
+.img-create-post2{
+    width: 17%;
+}
+
+.img-crear{
+    width: 6%;
+    border-radius: 50%;
+}
+.img-check{
+    width: 100%;
+}
+
+.button-check{
+    width: 5%;
+    height: 50%;
+    border-radius: 50%;
+}
+
+.button1{
+    width: 25%;
+    height: 50%;
+    border-radius: 5px;
+    background-color: #C5C5C5;
+    font-size: 70%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button2{
+    width: 15%;
+    height: 50%;
+    border-radius: 5px;
+    background-color: #C5C5C5;
+    font-size: 70%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.button3{
+    width: 20%;
+    height: 50%;
+    border-radius: 5px;
+    background-color: #C5C5C5;
+    font-size: 70%;
+    margin-right: 2%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
