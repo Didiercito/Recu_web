@@ -2,7 +2,7 @@ import '../Feed/feed.css'
 import Header from '../../Components/Pages/Header/Header'
 import CardPerfil from '../../Components/Pages/FeedProfile/FeedProfile'
 import CrearPublicacion from '../../Components/Pages/CreatePost/CreatePost'
-import Articulos from '../../Components/Pages/Articles/Article'
+import Articulos from '../../Components/Pages/Articulos/Article'
 
 function Feed() {
     return ( 

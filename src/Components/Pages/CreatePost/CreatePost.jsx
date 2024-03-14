@@ -10,7 +10,7 @@ function CrearPublicacion() {
     return (
         <>
             <section className="post">
-                <div className='container-crear'>
+                <div className='crear'>
                     <img className='img-crear' src={Face} alt="Face" /> {/* Mantenemos la imagen de Face */}
                     <Input tipo="text" placeholder="Crear publicacion" altura={50} ancho={75} />
                     <button className='button-check'><FaCheck className='img-check' /></button>

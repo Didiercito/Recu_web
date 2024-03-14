@@ -1,4 +1,4 @@
-import Articulos from '../../Components/Pages/Articles/Article'
+import Articulos from '../../Components/Pages/Articulos/Article'
 import InfoPersonal from '../../Components/Pages/InfoPersonal/InfoPersonal'
 import Header from '../../Components/Pages/Header/Header'
 import InfoPerfil from '../../Components/Pages/imagePerfil/ImagePerfil'

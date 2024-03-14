@@ -5,7 +5,7 @@ import Face from '../../../../public/img/faces.jpeg'
 function CardPerfil() {
     return ( 
         <>
-            <section className='container-Profile'>
+            <section className='perfil'>
             <div className="profile-container">
                 <img src={Perfil} alt="Background" className="background-images"/>
                 <img src={Face} alt="Profile" className="profile-picture"/>
