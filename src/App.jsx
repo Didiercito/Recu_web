@@ -1,12 +1,15 @@
 import Feed from './Pages/Feed/Feed'; 
-// import Perfil from './Pages/perfil/Perfil';
+import Perfil from './Pages/perfil/Perfil';
+import {Route, BrowserRouter as Router, Routes} from 'react-router-dom';
 
 function App() {
   return ( 
-    <>
-      <Feed/>
-      {/* <Perfil></Perfil> */}
-    </>
+    <Router>
+      <Routes>
+        <Route path='/Perfil' element={<Perfil/>}/>
+        <Route path='/Feed' element={<Feed/>}/>
+      </Routes>
+    </Router>      
    );
 }
 

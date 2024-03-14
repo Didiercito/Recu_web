@@ -45,6 +45,7 @@
     width: 5%;
     height: 50%;
     border-radius: 50%;
+    border: none;
 }
 
 .button1{
@@ -57,6 +58,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: none;
 }
 .button2{
     width: 15%;
@@ -68,6 +70,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: none;
 }
 .button3{
     width: 20%;
@@ -79,4 +82,5 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    border: none;
 }

@@ -1,4 +1,4 @@
-import './feed.css'
+import '../Feed/feed.css'
 import Header from '../../Components/Pages/Header/Header'
 import CardPerfil from '../../Components/Pages/FeedProfile/FeedProfile'
 import CrearPublicacion from '../../Components/Pages/CreatePost/CreatePost'
@@ -11,7 +11,9 @@ function Feed() {
             <section className='container-feed'>
                 <CardPerfil/>
                 <CrearPublicacion/>
-                <Articulos/>
+                <div className='container-article'>
+                    <Articulos/>
+                </div>
             </section>
         </>
      );
