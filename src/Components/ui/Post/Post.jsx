@@ -4,7 +4,6 @@ import Like2 from '../../../../public/img/me-gusta.png'
 import Comentario from '../../../../public/img/charla.png';
 import Compartir from '../../../../public/img/participacion.png';
 
-// eslint-disable-next-line react/prop-types
 function Post({ text, text2, image1, image2,number, number2, number3 }) {
     return (
         <section className="container-post1">

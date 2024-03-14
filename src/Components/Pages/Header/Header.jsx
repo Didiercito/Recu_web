@@ -1,4 +1,4 @@
-import { FaCog } from 'react-icons/fa'; // Importar el icono de tuerca desde react-icons
+import { FaCog } from 'react-icons/fa';
 import Button from '../../ui/Button/Button';
 import Input from '../../ui/Input/Input';
 import './header.css';
