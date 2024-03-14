@@ -7,7 +7,7 @@ function App() {
     <Router>
       <Routes>
         <Route path='/Perfil' element={<Perfil/>}/>
-        <Route path='/Feed' element={<Feed/>}/>
+        <Route path='/' element={<Feed/>}/>
       </Routes>
     </Router>      
    );

@@ -9,7 +9,7 @@ import PostImage from '../../../../public/img/post.jpeg';
 function CrearPublicacion() {
     return (
         <>
-            <section className="container-post">
+            <section className="post">
                 <div className='container-crear'>
                     <img className='img-crear' src={Face} alt="Face" /> {/* Mantenemos la imagen de Face */}
                     <Input tipo="text" placeholder="Crear publicacion" altura={50} ancho={75} />
