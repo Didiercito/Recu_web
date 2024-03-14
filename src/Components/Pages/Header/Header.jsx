@@ -19,7 +19,7 @@ function Header() {
                 <div className='container-right'>
                     <Link className='Link' to={'/Perfil'}><Button size="70" size2="38" borderRadius="3px" color="#C5C5C5" colorText="#000000">Mi Perfil</Button></Link>
                     <Button size="20" size2="38" borderRadius="3px" color="#C5C5C5" colorText="#000000">
-                        <FaCog className='engranaje' /> {/* Reemplazar la etiqueta <img> con el icono de tuerca */}
+                        <FaCog className='engranaje' /> {}
                     </Button>
                 </div>
             </section>
